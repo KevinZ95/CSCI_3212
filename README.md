@@ -1,2 +1,2 @@
-# CSCI_3212_ex3
+# CSCI_3212
 VIP problem
